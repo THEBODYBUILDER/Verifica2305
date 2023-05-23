@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Container
+comment1.params=id
+comment1.target=Container(int)
+comment2.params=prodotto
+comment2.target=void\ aggiungiProdotto(Prodotto)
+comment3.params=
+comment3.target=double\ getPrezzoTotale()
+numComments=4

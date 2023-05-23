@@ -1,0 +1,3 @@
+In un magazzino di Amazon ci sono diversi prodotti, che hanno un nome, una descrizione, un prezzo e un codice. 
+Questi prodotti sono situati in ordine di codice in vari container, e in un magazzino ci sono più container.
+Usare le strutture dati più adatte. Calcolare poi il prezzo totale del container e del magazzino e calcolare il prezzo totale di tutti i prodotti.
